@@ -12,3 +12,5 @@
 - [ ] All tests pass
 - [ ] CHANGELOG has been updated
 - [ ] Version has been bumped in metadata
+- [ ] Commits have been squashed, as appropriate
+- [ ] Commits include descriptive messages, subjects written in the imperative
